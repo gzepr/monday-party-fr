@@ -1,12 +1,19 @@
 # Monday Party
-Songs by Eric Humbert
-## Demos
 
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/38908720&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=true"></iframe>
+
+| [Playlist](#lplaylist) | [Songs](#lsongs) | [Videos](#lvideos) |
 
 
-## Chansons
+
+
+## <a name="lplaylist"></a>Playlist (demos)
+
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/38908720&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=true"></iframe>
+
+
+## <a name="lsongs"></a>Songs
 
 
 - [Lottery winner](#lottery)
@@ -466,6 +473,15 @@ Une interrogation sur la meilleure façon de vivre sa vie, entre action et conte
 	
 ```
 
+
+# <a name="lvideos"></a>Videos
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmondaypartymusic%2Fvideos%2F1719953054688711%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmondaypartymusic%2Fvideos%2F1719945058022844%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmondaypartymusic%2Fvideos%2F1776126589071357%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+
 # Graphisme
 ## Pochettes
 Copyright: Eric Humbert & cheeri
@@ -474,9 +490,6 @@ Copyright: Eric Humbert & cheeri
 
 ## Flyers
 <a href='https://photos.google.com/share/AF1QipN9k0bsNbkzjoWRg8IGQakRvapgOqTxXBzQgskmynhF4s0Dl_QpJ_ENkGP4ah4VqQ?key=VGNzRXQ1eUFCZ3dRUkdkNndVZ1RVbEtlczNDTmNn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/fkG46U6NEy8aLot7IijuOhU36qi9o7DC8y71xVWrXcYXg8TqQROfZDGSfoo1iwnXagyTdHfhL61X_0GFRqGNg-NEewn-yzLCNmgMkeFboJlGKvmUHqGqvZPGMvs3FinsZZGPHGU' /></a>
-## Photos pour plus tard
-Copyright: Eric Humbert
-<a href='https://photos.google.com/share/AF1QipNfag-xoQ6yJUQhLPGAT5OA2ekoxrbjpO8ThtYDlTF5MDC21Cb-DfjPZxQjMYGydg?key=T0hldjRlVUZIOS1Id3BlQ3U4bE9wMnp3eEh1NldB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/Nd-L1rYsB-bhhbh1VI4AVE__AlhTDHdoqoS-b3HtjdAcEwb19rKFYKHNg-0MRXAhgpNjDdmKP8343eAPtjTgmaEaWAzY7NXX6GfcY2eZ3BGIEfO6pVUKGrE_D004ufQdmAPKH5o' /></a>
 
 
 
